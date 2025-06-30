@@ -25,7 +25,7 @@ A responsive, interactive web application for building, previewing, and exportin
 
 ### Resume Builder Interface
 
-[https://www.canva.com/design/DAGr3G_j-jE/HF0nCN4LCPM3CKsvWLV1dw/view?utm_content=DAGr3G_j-jE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h192fde7706](View here)
+[https://www.canva.com/design/DAGr3G_j-jE/HF0nCN4LCPM3CKsvWLV1dw/view?utm_content=DAGr3G_j-jE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h192fde7706]
 
 ---
 
@@ -50,7 +50,7 @@ A responsive, interactive web application for building, previewing, and exportin
    npm run dev
    ```
 
-4. Open [http://localhost:5173](http://localhost:5173) in your browser.
+4. Open http://localhost:5173 in your browser.
 
 ---
 
