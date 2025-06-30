@@ -1,7 +1,3 @@
-Here's a clean, professional **README.md** for your **AI Resume Builder** GitHub repo, structured based on the project, features, tech stack, and screenshots you provided:
-
----
-
 # AI Resume Builder 🎯
 
 A responsive, interactive web application for building, previewing, and exporting professional resumes. Designed with clean architecture, real-time editing to simplify the resume creation process.
