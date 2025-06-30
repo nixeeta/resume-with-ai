@@ -4,14 +4,13 @@ Here's a clean, professional **README.md** for your **AI Resume Builder** GitHub
 
 # AI Resume Builder 🎯
 
-A responsive, interactive web application for building, previewing, and exporting professional resumes. Designed with clean architecture, real-time editing, and AI-powered content generation to simplify the resume creation process.
+A responsive, interactive web application for building, previewing, and exporting professional resumes. Designed with clean architecture, real-time editing to simplify the resume creation process.
 
 ---
 
 ## ✨ **Key Features**
 
 * 📝 Dynamic, real-time resume editing with live preview
-* 🤖 AI-powered content generation for professional summaries and bullet points
 * 🎨 Clean, modular UI built with React and Tailwind CSS
 * 📄 One-click PDF export for easy resume download
 * 🗃️ Scalable architecture for adding new features like templates
@@ -22,7 +21,6 @@ A responsive, interactive web application for building, previewing, and exportin
 
 * **Frontend:** React.js, Vite, Tailwind CSS
 * **State Management:** React Hooks
-* **AI Integration:** Simple prompt-based generation (expandable)
 * **PDF Preview:** Native browser print handling for export
 
 ---
@@ -31,6 +29,7 @@ A responsive, interactive web application for building, previewing, and exportin
 
 ### Resume Builder Interface
 
+[https://www.canva.com/design/DAGr3G_j-jE/HF0nCN4LCPM3CKsvWLV1dw/view?utm_content=DAGr3G_j-jE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h192fde7706](View here)
 
 ---
 
